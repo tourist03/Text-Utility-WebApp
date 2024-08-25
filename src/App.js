@@ -4,7 +4,7 @@ import About from "./component/About";
 import Navbar from "./component/Navbar";
 import TextForm from "./component/TextForm";
 import Alert from "./component/Alert";
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   const [mode, setMode] = useState("light");
@@ -18,7 +18,7 @@ function App() {
     });
     setTimeout(() => {
       setAlert(null);
-    }, 2000);
+    }, 1500);
   };
 
   const toggleMode = () => {
