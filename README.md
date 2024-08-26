@@ -1,4 +1,4 @@
-# Text Utils
+# Text-Utility-WebApp
 
 ### Description:
 The Text Utility WebApp is a versatile tool for manipulating text. It includes features like converting text to uppercase or lowercase, removing extra spaces, and other text transformations to make editing quick and efficient.
@@ -59,9 +59,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Text-Utility-WebApp
-
-
 
 **PS** 
 Feel free to tweak it further based on your specific needs or additional details about your project!!
